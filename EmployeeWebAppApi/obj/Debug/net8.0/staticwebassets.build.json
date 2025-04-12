@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "xm4I02uBHH0SnOF+s/VFLMulHf+7N+j1gmJCHHDlCR4=",
+  "Source": "EmployeeWebAppApi",
+  "BasePath": "_content/EmployeeWebAppApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
