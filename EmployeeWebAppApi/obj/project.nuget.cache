@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "v1BpP2Zj484=",
+  "dgSpecHash": "50ZaoivD0TQ=",
   "success": true,
   "projectFilePath": "/Users/kareem.saeed/Documents/Kafka-topic-producer-service/EmployeeWebAppApi/EmployeeWebAppApi.csproj",
   "expectedPackageFiles": [
+    "/Users/kareem.saeed/.nuget/packages/confluent.kafka/2.9.0/confluent.kafka.2.9.0.nupkg.sha512",
+    "/Users/kareem.saeed/.nuget/packages/librdkafka.redist/2.8.0/librdkafka.redist.2.8.0.nupkg.sha512",
     "/Users/kareem.saeed/.nuget/packages/microsoft.aspnetcore.openapi/8.0.2/microsoft.aspnetcore.openapi.8.0.2.nupkg.sha512",
     "/Users/kareem.saeed/.nuget/packages/microsoft.entityframeworkcore/9.0.0-rc.2.24474.1/microsoft.entityframeworkcore.9.0.0-rc.2.24474.1.nupkg.sha512",
     "/Users/kareem.saeed/.nuget/packages/microsoft.entityframeworkcore.abstractions/9.0.0-rc.2.24474.1/microsoft.entityframeworkcore.abstractions.9.0.0-rc.2.24474.1.nupkg.sha512",
